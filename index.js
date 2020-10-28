@@ -1,5 +1,4 @@
-/// User: userBueno
-///password: v1kx0JjrgG6aR3b7
+
 
 const express = require('express');
 const cors = require('cors');
